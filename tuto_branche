@@ -1,0 +1,12 @@
+#creation branche
+
+git branch
+
+#branche principale master
+
+#fusionner branche
+
+git checkout brancheA
+#ajouter la brancheB
+git merge BrancheB
+
