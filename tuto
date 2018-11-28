@@ -1,0 +1,11 @@
+# Pour initianiliser un dossier pour etre versionner par git
+
+git init
+
+#Pour mettre les fichier nouvellement creer 
+
+git add "nom fichier"
+#ou pour mettre tous les fichiers
+git add .
+
+
