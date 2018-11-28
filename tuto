@@ -8,4 +8,15 @@ git add "nom fichier"
 #ou pour mettre tous les fichiers
 git add .
 
+#Pour envoyer les nouveau commit du dossier
+
+git commit
+
+# Regarder l'historique
+
+
+git log
+
+
+
 
